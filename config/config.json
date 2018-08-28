@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Brooke",
+    "password": null,
+    "database": "hobbies_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Brooke",
+    "password": null,
+    "database": "hobbies_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Brooke",
+    "password": null,
+    "database": "hobbies_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
